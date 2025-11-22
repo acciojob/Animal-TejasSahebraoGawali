@@ -21,8 +21,9 @@ body {
 	justify-content : space-evenly;
 }
 
-img {
+#animal-photos {
 	margin : 10px;
+	border-radius : 10px;
 }
 
 /* .photos {
